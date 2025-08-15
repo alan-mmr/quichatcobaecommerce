@@ -135,7 +135,7 @@ const Navbar = () => {
           </button>
         </SignedOut>
       </div>
-
+          
     </nav>
   );
 };
